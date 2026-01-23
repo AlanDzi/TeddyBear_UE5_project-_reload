@@ -1,0 +1,29 @@
+[3972:10404:0122/160141.364:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3972:15140:0122/160141.631:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3972:10404:0122/160141.748:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3972:15048:0122/160145.510:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3972:15048:0122/160145.512:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3972:15048:0122/160145.514:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3972:15048:0122/160145.516:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3972:15140:0122/160145.973:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3972:15140:0122/160145.975:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[3972:15144:0122/160147.137:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Nousagi\Documents\Fork_Projekty\UE5_TeddyBear\Teddy_Bear_project\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14896:11620:0122/160147.300:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8C3D5D94871402B5CBC05163E8A4B5FD will be ignored
+[15356:5440:0122/161622.958:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15140:0122/161622.960:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/161627.964:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15140:0122/161627.964:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15140:0122/161637.966:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/161637.981:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15140:0122/161657.968:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/161657.984:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:10404:0122/163202.229:ERROR:device_event_log_impl.cc(196)] [16:32:01.995] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
+[3972:15140:0122/164245.369:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/164245.369:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/164250.375:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15140:0122/164250.375:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/164256.140:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15148:0122/164256.144:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[15356:5440:0122/164256.148:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:15140:0122/164256.174:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[3972:10404:0122/182100.300:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
