@@ -1,0 +1,10 @@
+[31752:18636:0122/200418.459:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31752:18636:0122/200418.489:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Nieprawidłowy klucz do użycia w podanym stanie. (0x8009000B)
+[31752:18636:0122/200418.546:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31752:18636:0122/200421.465:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[12596:32796:0122/200422.149:ERROR:backend_impl.cc(989)] Critical error found -8
+[12596:32796:0122/200422.149:ERROR:entry_impl.cc(1029)] No file for b2020000
+[12596:32796:0122/200422.149:WARNING:storage_block-inl.h(138)] Failed data load.
+[17372:6004:0122/200422.576:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2A38D90D60F91084AFB5C306671AF709 will be ignored
+[31752:37304:0122/200425.307:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31752:18636:0122/200921.918:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
